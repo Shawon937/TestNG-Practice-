@@ -1,1 +1,1 @@
-# TestNG-Practice
+# TestNG-Practice-Class
